@@ -23,9 +23,9 @@ Ambiente de desenvolvimento Jupyter Notebook (opcional, mas recomendado)
 Clone este repositório para o seu ambiente local usando o comando:
 
 git clone https://github.com/seu-usuario/análise-falhas-máquinas-rotativas.git
-Navegue para o diretório do projeto:
+Navegue para o diretório do projeto:/n
 
-cd análise-falhas-máquinas-rotativas
+cd análise-falhas-máquinas-rotativas/n
 Siga as instruções detalhadas nos notebooks e scripts fornecidos para realizar a análise exploratória e treinar os modelos de CNNs.
 
 ## **Contribuições**
